@@ -1,0 +1,2 @@
+# bus_booking_management_system
+Bus booking management system is DBMS project is built mainly using MySql, PHP and javascript. By using this software, we can reserve tickets from any part of the world, through telephone lines, via internet. Customers can check availability of bus and reserve selective seats. The project provides and checks all sorts of constraints so that user does give only useful data and thus validation is done in an effective way.
